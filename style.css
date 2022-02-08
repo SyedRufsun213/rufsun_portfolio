@@ -28,15 +28,19 @@ ul {
 .first-sect{
 display: flex;
 }
+.hello{
+    color: black;
+    font-size: 60px;
+}
 .name{
     color: #8ca5c0;
-    font-size: 32px;
+    font-size: 92px;
     font-family:sans-serif;
     
 }
 .designation{
     color: darkgray;
-    font-size: 12px;
+    font-size: 20px;
 }
 .calling{
     color: darkgray;
@@ -57,10 +61,15 @@ span{
 .second-sect{
     margin-left: 25%;
     margin-right: 25%;
+    margin-top: 500px;
 
 }
 h1{
     margin-left: 40%;
+    font-size: 62px;
+}
+p{
+    font-size: 30px;
 }
 .email{
     background-color:#8ca5c0 ;
@@ -76,6 +85,7 @@ h1{
 }
 .email i{
     padding-right: 5px;
+   
 }
 
 
